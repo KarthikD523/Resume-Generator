@@ -32,7 +32,7 @@
   .left {
     height: 297mm;
     flex: 1;
-    background-color: rgb(60, 79, 105); /* Dark background color */
+    background-color: rgb(38, 48, 63); /* Dark background color */
     color: #fff; /* White text color */
      /* Add padding for spacing */
     position: relative; /* Ensure proper positioning for the pseudo-element */
