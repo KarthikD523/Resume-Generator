@@ -8,6 +8,7 @@ export default function Home6() {
     const [name,setName]=useState("")
     const [email,setEmail]=useState("")
     const [education,setEducation]=useState([])
+    const [experience,setExperience]=useState([])
 
     const [school,setSchool]=useState({
         name:"",
@@ -107,7 +108,7 @@ export default function Home6() {
     </button>
   }
  
- 
+
   </div>
  
 
